@@ -1,2 +1,2 @@
 # website-portofolio-02
-# ini web portofolio bagian homepage beserta cssnya
+# ini web design bagian landingpage.
